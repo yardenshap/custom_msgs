@@ -3,8 +3,10 @@
 
 float64 pos_x
 float64 pos_y
+float64 pos_z
 float64 normal_x
 float64 normal_y
+float64 normal_z
 int32 NYELLOW
 int32 NBLUE
 float64[] yellow_x
