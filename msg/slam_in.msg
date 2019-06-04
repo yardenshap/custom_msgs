@@ -13,6 +13,3 @@ float64[] yellow_x
 float64[] yellow_y
 float64[] blue_x
 float64[] blue_y
-float64[] mid_points_x
-float64[] mid_points_y
-float64 theta
