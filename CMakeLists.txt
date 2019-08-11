@@ -53,9 +53,8 @@ add_message_files(
   pp_msg.msg
   pp_pos.msg
   pp_pos_velocity.msg
-  path_array.msg
   slam_in.msg
-  slam_test_msg.msg
+  slam_debug_msg.msg
 )
 
 ## Generate services in the 'srv' folder
